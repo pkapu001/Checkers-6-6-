@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1508593057 source:z:\cs250\assignments\assg5_pkapu\main.cpp
+	<iostream>
+	<cmath>
+
